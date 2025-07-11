@@ -1,0 +1,89 @@
+.Card{
+    width: 270px;
+    height: 322px;
+}
+
+.Card img{
+    width: 180px;
+    height: 130px;
+    transform: translate(47px, -28px);
+}
+
+.Card h3{
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: rgba(0, 0, 0, 1);
+    margin-top: 16px;
+}
+
+.Card h4{
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0%;
+    color: rgba(219, 68, 68, 1);
+}
+
+.Card h6{
+    font-family: Poppins;
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: 0%;
+    color: rgb(124, 88, 88);
+}
+
+.Card h2{
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Regular;
+    font-size: 15px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    color: white;
+    height: 41px;
+    background-color: black;
+    text-align: center;
+    padding: 10px 89px 9px 89px;
+}
+
+.text{
+    position: relative;    
+    z-index: -1;
+}
+
+.Card h5{
+    position: absolute;
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0%;
+    background-color: rgba(219, 68, 68, 1);
+    padding: 4px 12px;
+    z-index: 1;
+}
+
+.reyting{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+
+
+
+
+
+
+
+
+
